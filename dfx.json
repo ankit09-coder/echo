@@ -1,0 +1,13 @@
+{
+  "canisters": {
+    "memory_assistant": {
+      "main": "src/memory_assistant/main.mo",
+      "type": "motoko"
+    },
+    "frontend": {
+      "source": ["frontend"],
+      "type": "assets"
+    }
+  },
+  "version": 1
+} 
